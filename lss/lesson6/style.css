@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gray;
+}
+
+.home {
+    max-width: 25px;
+    max-height: 50px;
+    opacity: 0.0001;
+    position: absolute;
+}
+
+.box {
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    margin-left: -480px;
+    margin-top: 270px;
+    max-height: 400px;
+    min-height: 400px;
+    max-width: 950px;
+    width: 100%;
+    background-color: #fff;
+}
+
+.img {
+    max-width: 500px;
+    max-height: 400px;
+    float: left;
+}
+
+.beat {
+    padding: 40px 0 25px 0;
+}
+
+.lor {
+    padding: 10px 0 25px 0;
+}
+
+.price {
+    padding: 10px 0 20px 0;
+}
+
+.symma {
+    padding: 0 0 50px 0;
+}
+
+.btn {
+    color: white;
+    background-color: orangered;
+    padding: 10px 20px 10px 20px;
+}
