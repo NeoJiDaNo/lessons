@@ -16,3 +16,9 @@ body {
     background-color: red;
     padding: 10px 15px 10px 15px;
 }
+
+.xz {
+    margin: 100px auto;
+    max-width: 1200px;
+    max-height: 400px;
+}
