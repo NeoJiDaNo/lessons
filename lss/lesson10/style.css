@@ -5,6 +5,13 @@
     box-sizing: border-box;
 }
 
+.home {
+    max-width: 25px;
+    max-height: 50px;
+    opacity: 0.0001;
+    position: absolute;
+}
+
 .border {
     position: absolute;
     left: 10%;

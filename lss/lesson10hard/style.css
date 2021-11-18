@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.home {
+    max-width: 25px;
+    max-height: 50px;
+    opacity: 0.0001;
+    position: absolute;
+}
+
+.book {
+    padding-top: 40px;
+    margin: auto;
+    max-width: 800px;
+    display: flexbox;
+}
+
+.kniga {
+    max-width: 500px;
+    max-height: 400px;
+    float: left;
+    margin-right: 40px;
+}
+
+.koroleva {
+    font-size: 35px;
+    padding-top: 30px;
+}
+
+.avtor {
+    font-size: 20px;
+    padding: 10px 0 20px 0;
+}
+
+.txt {
+    max-width: 700px;
+    padding: 5px 0;
+}
+
+.symma {
+    font-size: 35px;
+    padding: 15px 0 30px 0;
+}
+
+.btn {
+    color: #fff;
+    font-size: 17px;
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.btn_opis {
+    font-size: 17px;
+    color: orangered;
+    border: 1px solid orangered;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-left: 15px;
+}
+
+/* ~~~~~~~~~~~~~~ */
+
+.back {
+    margin-top: 150px;
+    background-color: lightgray;
+    opacity: 0.5;
+}
+
+.priv {
+    display: flex;
+    margin: auto;
+    max-width: 800px;
+    align-items: center;
+    text-align: center;
+}
